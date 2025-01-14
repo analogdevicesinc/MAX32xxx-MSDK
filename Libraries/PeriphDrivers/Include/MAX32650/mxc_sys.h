@@ -42,6 +42,7 @@
 #include "spi_regs.h"
 #include "wdt_regs.h"
 #include "dma.h"
+#include "mxc_sys_common.h"
 
 #ifdef __cplusplus
 extern "C" {
